@@ -1,0 +1,5 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 100663296 bytes for G1 virtual space
+# An error report file with more information is saved as:
+# C:\Users\marco\3D Objects\NetBeansProjects\mooc-java-programming-ii\part08-Part08_05.TodoList\hs_err_pid24240.log
